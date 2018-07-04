@@ -1,0 +1,17 @@
+# IJulia/IPython savepoints
+.ipynb_checkpoints/
+
+# build stuff
+*.o
+build/
+__pycache__/
+
+# large files
+*.jpg
+*.jpeg
+*.zip
+
+# large folders
+models/
+data/
+tmp/
